@@ -5,7 +5,7 @@
 Estudante de Inteligência Artificial na FIAP (2025–2026), movido por construir
 soluções que geram impacto real na vida das pessoas.
 
-Quando o código roda e resolve um problema de verdade — é aí que faz sentido.
+Quando o código roda e resolve um problema de verdade é aí que faz sentido.
 
 ---
 
